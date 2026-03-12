@@ -1,39 +1,40 @@
 # Olá, eu sou o Matheus Henrique! 👋 
-### Full-Stack Developer | Machine Learning Enthusiast | Cloud Solutions
+### Full-Stack Developer | Machine Learning & Cloud Specialist
 
-Estudante apaixonado por tecnologia, focado em criar soluções inteligentes e escaláveis. Atualmente, dedico meu tempo ao desenvolvimento de aplicações robustas com Python, JavaScript e Java, sempre integrando boas práticas de Engenharia de Dados e ambientes Cloud.
+Sou um desenvolvedor focado em construir soluções inteligentes que unem a robustez do **Back-end** com o poder analítico de **Machine Learning**. Atualmente, projeto arquiteturas escaláveis em ambientes Cloud, priorizando performance e automação.
 
-**Prático, analítico e perfeccionista.** Busco constantemente otimizar processos e entregar código de alta qualidade.
+**Prático, analítico e orientado a resultados.**
 
 ---
 
-## 🚀 O que estou fazendo agora?
-* 🛠️ Desenvolvendo interfaces personalizadas para sistemas de monitoramento (Projeto Intelbras).
-* 📊 Criando pipelines de extração de dados e automação com SQL Server e Python.
-* ☁️ Configurando infraestrutura local com foco em SaaS e alta disponibilidade.
+## 🚀 Projetos em Destaque
+* 🛠️ **Visão Computacional & Monitoramento:** Desenvolvendo interfaces customizadas para ecossistemas Intelbras.
+* 📊 **Engenharia de Dados:** Pipelines automatizados de extração e integração entre Excel e SQL Server via Python.
+* ☁️ **Infraestrutura SaaS:** Implementação de servidores locais de alta performance (Xeon/Docker) para hospedagem de aplicações.
 
 ## 🛠️ Stack Tecnológica
 
-| Categoria | Tecnologias |
+| Domínio | Ferramentas e Linguagens |
 | :--- | :--- |
 | **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **Front-end** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=flat-square&logo=sass&logoColor=white) |
-| **Back-end & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **DevOps & ML** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Data & ML** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **Cloud & Ops** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Atividade e Performance
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathcorreia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathcorreia&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathcorreia&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathcorreia&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400" />
 </p>
 
+> **Nota:** Se os cards acima não carregarem, é um instabilidade temporária do servidor de stats. Eles costumam voltar em alguns minutos!
+
 ---
 
-## 📫 Vamos nos conectar?
+## 📫 Vamos trocar uma ideia?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-de-carvalho-correia-336224211)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.contato@seuprovedor.com)
 
 ---
-*“A prática leva à perfeição, mas a consistência leva ao sucesso.”*
+*"Transformando dados em decisões e código em soluções de impacto."*
