@@ -3,7 +3,7 @@
 
 Sou um desenvolvedor focado em construir soluções inteligentes que unem a robustez do **Back-end** com o poder analítico de **Machine Learning**. Atualmente, projeto arquiteturas escaláveis em ambientes Cloud, priorizando performance e automação.
 
-**Prático, analítico e orientado a resultados.**
+**Prático, analítico, cálculista e orientado a resultados.**
 
 ---
 
@@ -28,11 +28,10 @@ Sou um desenvolvedor focado em construir soluções inteligentes que unem a robu
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathcorreia&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400" />
 </p>
 
-> **Nota:** Se os cards acima não carregarem, é um instabilidade temporária do servidor de stats. Eles costumam voltar em alguns minutos!
 
 ---
 
-## 📫 Vamos trocar uma ideia?
+## 📫 Vamos interagir nas redes sociais?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-de-carvalho-correia-336224211)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.contato@seuprovedor.com)
 
