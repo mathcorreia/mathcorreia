@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1500x300/150458/FFFFFF?text=Matheus+Henrique+-+Full-Stack+%7C+Machine+Learning+%7C+Cloud" alt="Banner Matheus Henrique" width="100%">
+  <img src="BannerGit.png" alt="Banner Profissional Matheus Henrique" width="100%">
 </div>
+
+<br>
 
 <br>
 
