@@ -33,7 +33,7 @@ Sou um desenvolvedor focado em construir soluções inteligentes que unem a robu
 
 ## 📫 Vamos interagir nas redes sociais?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-de-carvalho-correia-336224211)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.contato@seuprovedor.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheushccorreia0910@gmail.com)
 
 ---
 *"Transformando dados em decisões e código em soluções de impacto."*
