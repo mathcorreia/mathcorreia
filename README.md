@@ -1,17 +1,66 @@
-<div align="center">
-  <img src="BannerGit.png" alt="Banner Profissional Matheus Henrique" width="100%">
-</div>
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banner Matheus</title>
+    <style>
+        /* Reseta as margens da página para o banner ficar perfeito */
+        body {
+            background-color: #010409; /* Fundo escuro do GitHub */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        }
 
-<br>
+        /* Container principal que cria o efeito da borda fina RGB */
+        .rgb-banner-wrapper {
+            position: relative;
+            padding: 2px; /* Espessura da borda. Podes mudar para 1px se quiseres mais fina */
+            background: linear-gradient(90deg, #ff0000, #00ff00, #0000ff, #ff0000);
+            background-size: 300%;
+            border-radius: 12px;
+            width: 800px; /* Largura ideal para o banner do GitHub */
+            /* A animação está desativada aqui para facilitar tirares o Print Screen perfeito */
+        }
 
-<br>
+        /* O conteúdo interno do banner com fundo escuro */
+        .rgb-banner-content {
+            background-color: #0d1117; /* Cor de fundo "clean" */
+            color: #ffffff;
+            padding: 50px 20px;
+            text-align: center;
+            border-radius: 10px;
+        }
 
-<div align="center">
-  <h1>Olá! Eu sou o Matheus Henrique 👋</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Specialist;Cloud+Architecture+Specialist;Data+Engineering+%26+IoT" alt="Typing Animation" />
-  </a>
-</div>
+        .rgb-banner-content h1 {
+            margin: 0;
+            font-size: 2.8rem;
+            letter-spacing: 2px;
+        }
+
+        .rgb-banner-content p {
+            color: #8b949e; /* Texto secundário suave */
+            font-size: 1.2rem;
+            margin-top: 10px;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="rgb-banner-wrapper">
+        <div class="rgb-banner-content">
+            <h1>MATHEUS HENRIQUE</h1>
+            <p>Full-Stack Developer | Machine Learning & Cloud Specialist</p>
+        </div>
+    </div>
+
+</body>
+</html>
 
 ---
 
